@@ -8,7 +8,7 @@ Ensuring that semantic representations capture the actual meanings of sentences 
 
 ## About
 
-This repo contains the datasets used for the experiments. We used the [Kronfluence](https://github.com/pomonam/kronfluence) package in order to calculate the influence scores on GPT2. In addition, we used the sBERT models provided by the [SentenceTransformers](https://sbert.net/) to calculate sentence embeddings.
+This repo contains the datasets used for the experiments. We used the [Kronfluence](https://github.com/pomonam/kronfluence) package in order to calculate the influence scores on GPT2. In addition, we used the sBERT models provided by the [SentenceTransformers](https://sbert.net/) package to calculate sentence embeddings.
 
 ## Citation
 
