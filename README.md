@@ -12,4 +12,20 @@ This repo contains the datasets used for the experiments. We used the [Kronfluen
 
 ## Citation
 
-To do.
+```
+@inproceedings{liu-penn-2025-similarity,
+    title = "Similarity, Transformation and the Newly Found Invariance of Influence Functions",
+    author = "Liu, Andrew  and
+      Penn, Gerald",
+    editor = "Anderson, Carolyn Jane  and
+      Mailhot, Fr{\'e}d{\'e}ric  and
+      Prasad, Grusha",
+    booktitle = "Proceedings of the Society for Computation in Linguistics 2025",
+    month = jul,
+    year = "2025",
+    address = "Eugene, Oregon",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.scil-1.26/",
+    pages = "309--321"
+}
+```
